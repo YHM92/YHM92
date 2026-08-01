@@ -1,6 +1,6 @@
 # ⚡ Yazeed Almutairy
 
-## Senior Electrical Power System Operator
+## Electrical Power System Operator
 
 ### High Voltage Substations • GIS • SCADA • Protection • Switching
 
