@@ -1,6 +1,8 @@
 # ⚡ Yazeed Almutairy
 
-### Electrical Power System Operator | HV Substations | GIS | SCADA | Protection
+## Senior Electrical Power System Operator
+
+### High Voltage Substations • GIS • SCADA • Protection • Switching
 
 Welcome to my professional GitHub portfolio.
 
