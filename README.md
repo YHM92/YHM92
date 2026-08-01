@@ -1,72 +1,72 @@
-# ⚡ Yazeed Almutairy
+# ⚡ Grid Operator Simulation
 
-## Electrical Power System Operator
-
-### High Voltage Substations • GIS • SCADA • Protection • Switching
-
-Welcome to my professional GitHub portfolio.
-
-This profile showcases my work, technical documentation, engineering drawings, and operating procedures related to high-voltage electrical power systems.
+A professional engineering project dedicated to high-voltage power system operation, substation training, and realistic operator simulations.
 
 ---
 
-## 👨‍💼 About Me
+## 🎯 Project Vision
 
-- ⚡ Electrical Power System Operator
-- 🏭 High Voltage Substations (GIS & AIS)
-- 🖥️ SCADA Operation
-- 🔌 Switching Operations
-- 🔒 LOTO & Electrical Safety
-- ⚙️ Protection Systems
-- 📈 Power System Troubleshooting
-- 📚 Continuous Professional Development
+This repository aims to become a comprehensive reference for electrical power system operators by providing:
 
----
-
-# 🛠 Technical Skills
-
-- GIS Substations
-- Power Transformers
-- Circuit Breakers
-- Disconnectors
-- Protection Relays
-- SCADA Systems
-- HV Switching
-- Isolation Procedures
-- Emergency Response
-- Root Cause Analysis
+- High-voltage substation simulations
+- Switching procedures
+- SCADA training material
+- Protection system documentation
+- Engineering drawings based on IEC standards
+- Realistic operating scenarios
 
 ---
 
-# 📂 Featured Projects
+## 📂 Repository Structure
 
-## ⚡ Electrical Operator Portfolio
-Professional operating procedures, training documents and engineering references.
-
-## 📘 Switching Procedures
-Realistic switching scenarios for HV substations.
-
-## 📐 Single Line Diagrams
-Professional SLD drawings following IEC standards.
-
-## 🛡 Protection Systems
-Protection philosophy and troubleshooting.
-
----
-
-# 📖 Current Focus
-
-- Developing professional operator documentation.
-- Building realistic substation simulations.
-- Creating high-quality engineering drawings.
-- Sharing technical knowledge for electrical operators.
+```text
+GridOperatorSimulation/
+│
+├── docs/
+├── drawings/
+├── protection/
+├── scenarios/
+├── scada/
+├── simulator/
+├── handbook/
+├── calculations/
+├── images/
+└── assets/
+```
 
 ---
 
-## 📫 Contact
+## 🛠 Technologies & Standards
 
-GitHub: **YHM92**
+- IEC Standards
+- IEEE Standards
+- SVG Engineering Drawings
+- Markdown Documentation
+- GitHub
 
 ---
 
-> "Safety, accuracy and operational excellence are the foundation of every successful power system."
+## 🚧 Project Roadmap
+
+- [ ] IEC Single Line Diagrams
+- [ ] GIS Substation Layouts
+- [ ] SCADA Mimic Screens
+- [ ] Switching Procedures
+- [ ] Protection Philosophy
+- [ ] Transformer Operation
+- [ ] Fault Scenarios
+- [ ] Emergency Restoration
+- [ ] Operator Handbook
+- [ ] Interactive Training Simulator
+
+---
+
+## 📖 Purpose
+
+The purpose of this project is educational and professional development. All drawings, documents, and procedures are original training materials and are not copied from utility companies or confidential sources.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
